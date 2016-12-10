@@ -1,7 +1,7 @@
 name := "$name$"
 organization := "$organization$"
 version := "$version$"
-scalaVersion := "2.12.0"
+scalaVersion := "2.12.1"
 
 enablePlugins(ScalaJSPlugin, ScalaJSBundlerPlugin)
 
