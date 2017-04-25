@@ -2,10 +2,10 @@
 
 Use `sbt new augustnagro/sjsmod.g8` to create a project with:
 
-* [Scala][scala] (2.12.1)
-* [SBT][sbt] (>= 0.13.13)
-* [Scala.js][sjs] (0.6.13)
-* [scalajs-bundler][sjsbundler] (0.3.1)
+* [Scala][scala] (2.12.2)
+* [SBT][sbt] (>= 0.13.15)
+* [Scala.js][sjs] (0.6.15)
+* [scalajs-bundler][sjsbundler] (0.5.0)
 * [ScalaCheck][scheck] (latest release)
 
 Requires:
